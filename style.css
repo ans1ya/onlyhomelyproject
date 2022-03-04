@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Comic+Neue:wght@300&family=Dancing+Script:wght@700&family=Dongle&family=Great+Vibes&family=IM+Fell+English+SC&family=Lemonada&family=Licorice&family=Luxurious+Roman&family=Neonderthaw&family=Open+Sans&family=PT+Sans+Narrow&family=Qwitcher+Grypen:wght@700&family=Satisfy&family=Spectral:ital,wght@1,200;1,300&family=Supermercado+One&display=swap');
+#title{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 70px;
+
+}
+/* #button{
+    text-align: center;
+    padding-left: 40px;
+} */
